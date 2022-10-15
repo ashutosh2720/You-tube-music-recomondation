@@ -1,0 +1,67 @@
+.App {
+    font-family: roboto;
+    text-align: left;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    color: white;
+  }
+  .btn {
+    margin-left: 50px;
+  }
+  
+  body {
+    margin: 2rem 1.5rem;
+    background-color: blueviolet;
+  }
+  
+  hr {
+    border: 7px solid black;
+  }
+  .desc {
+    text-align: center;
+    color: white;
+    font-weight: 100px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: roboto;
+    font-size: 4.5rem;
+    color: black;
+  }
+  h3 {
+    font-family: roboto;
+  }
+  li p {
+    font-family: "Titillium Web", sans-serif;
+  }
+  button {
+    margin-left: 4rem;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    width: 200px;
+    background-color: blue;
+    border: 2.5px solid black;
+    color: white;
+  }
+  
+  ul {
+    padding-inline-start: 0;
+  }
+  
+  li {
+    display: flex;
+    background-color: blue;
+    border: 1px solid white;
+    margin-bottom: 1.2rem;
+    border-radius: 0.8rem;
+    justify-content: center;
+  }
+  
+  img {
+    width: 150px;
+    object-fit: cover;
+    padding: 1rem 0rem 1rem 1rem;
+  }
+  
